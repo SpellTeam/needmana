@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<composant>
+    <element>
+        <name>Feu</name>
+        <sprite>img/feu.png</sprite>
+        <id>1</id>
+    </element>
+    <element>
+        <name>Eau</name>
+        <sprite>img/eau.png</sprite>
+        <id>8</id>
+    </element>
+    <element>
+        <name>Terre</name>
+        <sprite>img/terre.png</sprite>
+        <id>64</id>
+    </element>
+    <element>
+        <name>Foudre</name>
+        <sprite>img/foudre.png</sprite>
+        <id>512</id>
+    </element>
+    <element>
+        <name>Ombre</name>
+        <sprite>img/ombre.png</sprite>
+        <id>4096</id>
+    </element>
+    <element>
+        <name>Sacre</name>
+        <sprite>img/sacre.png</sprite>
+        <id>32768</id>
+    </element>
+    <element>
+        <name>Poison</name>
+        <sprite>img/poison.png</sprite>
+        <id>262144</id>
+    </element>
+    <element>
+        <name>Plante</name>
+        <sprite>img/plante.png</sprite>
+        <id>2097152</id>
+    </element>
+</composant>

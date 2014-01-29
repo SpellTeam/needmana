@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attaque>
+    <sort>
+	    <id>0000</id>
+	    <name>null</name>
+	    <description>null</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>null</icone>
+	    <position>0;0</position>
+    </sort>
+</attaque>

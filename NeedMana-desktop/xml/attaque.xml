@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attaque>
+    <sort>
+	    <id>7</id>
+	    <name>Boule de feu</name>
+	    <description>vous lancez une boule incandescente</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/bouledefeu.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>56</id>
+	    <name>Geyser</name>
+	    <description>vous invoquez un torrent des premieres fontes</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/geyser.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>3584</id>
+	    <name>Thunderstruck</name>
+	    <description>préparez vous à être choqué</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/thunderstruck.png</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>448</id>
+	    <name>Seisme</name>
+	    <description>parce que quand vous tombez du lit vous tombez des deux cotés</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/seisme.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>392</id>
+	    <name>Vague de boue</name>
+	    <description>ralentissez vos ennemis avec de la boue et autre matière fécale</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/boue.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>2072</id>
+	    <name>Court-circuit</name>
+	    <description>vous aurez certainement un coup de foudre (immobilise l'ennemi)</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/court-circuit.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>229376</id>
+	    <name>Soin</name>
+	    <description></description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/soin.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>28672</id>
+	    <name>Voile de mort</name>
+	    <description></description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/voiledemort.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>1572872</id>
+	    <name>Brume toxique</name>
+	    <description></description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/brumetoxique.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>14680064</id>
+	    <name>Coup de lianes</name>
+	    <description></description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/liane.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+    <sort>
+	    <id>1835008</id>
+	    <name>Vent toxique</name>
+	    <description>vous devriez consulter pour vos problèmes digestifs</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>null</sprite>
+	    <icone>texture/sorts/brumetoxique.jpg</icone>
+	    <position>0;0</position>
+    </sort>
+</attaque>

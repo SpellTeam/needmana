@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<malus>
+    <sort>
+	    <id>63540</id>
+	    <name>Qui a éteint la lumière ?</name>
+	    <description>Il fait soudainement nuit</description>
+	    <degats>0</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>textures/nuit.png</sprite>
+	    <icone>icones/nuit.png</icone>
+	    <position>0;0;</position>
+    </sort>
+    <sort>
+	    <id>3232</id>
+	    <name>Lendemain de soirée</name>
+	    <description>Boire ou passer son examen, il faut choisir !</description>
+	    <degats>1</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>textures/ivre.png</sprite>
+	    <icone>icones/ivre.png</icone>
+	    <position>0;0;</position>
+    </sort>
+</malus>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bonus>
+    <sort>
+	    <id>35</id>
+	    <name>Feu vengeur</name>
+	    <description>Feu feu eau (1 + 2 + 32)</description>
+	    <degats>20</degats>
+	    <effetMax>10</effetMax>
+	    <sprite>textures/feu_vengeur.png</sprite>
+	    <icone>icones/feu_vengeur.png</icone>
+	    <position>0;0;</position>
+    </sort> 
+    <sort>
+	    <id>5242944</id>
+	    <name>Attaque de lianes</name>
+	    <description>Terre Plante Poison (64 + 4194304 + 786432)</description>
+	    <degats>40</degats>
+	    <effetMax>4</effetMax>
+	    <sprite>textures/attaque_lianes.png</sprite>
+	    <icone>icones/attaque_lianes.png</icone>
+	    <position>10;4;</position>
+    </sort>
+    <sort>
+	    <id>84</id>
+	    <name>Attaque de boue</name>
+	    <description>Terre Eau Feu (64 + 16 + 4)</description>
+	    <degats>30</degats>
+	    <effetMax>0</effetMax>
+	    <sprite>textures/attaque_boue.png</sprite>
+	    <icone>icones/attaque_boue.png</icone>
+	    <position>3;2;</position>
+    </sort>
+</bonus>

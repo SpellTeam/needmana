@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bonus>
+    <sort>
+	    <id>4194568</id>
+	    <name>Ecorce Terrestre</name>
+	    <description>+1 armure si full vie</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort> 
+   <sort>
+	    <id>33796</id>
+	    <name>Adrénaline</name>
+	    <description>augmente la vitesse (comme l'EPO)</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+    <sort>
+	    <id>143360</id>
+	    <name>Concentration</name>
+	    <description>augmente la puissance de votre prochain sort de x%</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+    <sort>
+	    <id>8650753</id>
+	    <name>Incendie</name>
+	    <description>BURN IT DOWN</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort> 
+    <sort>
+	    <id>528640</id>
+	    <name>TDI</name>
+	    <description>envoie un double maléfique en bombe atomique</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort> 
+</bonus>

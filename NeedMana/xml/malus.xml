@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<malus>
+    <sort>
+	    <id></id>
+	    <name>ShoopDaWoop</name>
+	    <description>IMA FIRIN MA LAZOR (gros rayon en mode shoop da woop)</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+    <sort>
+	    <id></id>
+	    <name>Show me your genitals</name>
+	    <description>vous met a 1 pv</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+     <sort>
+	    <id></id>
+	    <name>Retour de soirée</name>
+	    <description>vous etes ralentis et vous avez un pv en moins (sale drogué)</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+     <sort>
+	    <id></id>
+	    <name>Squatteur</name>
+	    <description>vous perdez un slot de sort</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+     <sort>
+	    <id></id>
+	    <name>Epic Fail</name>
+	    <description>meme gandalf peut se tromper</description>
+	    <degats></degats>
+	    <effetMax></effetMax>
+	    <sprite>textures/.png</sprite>
+	    <icone></icone>
+	    <position>0;0;</position>
+    </sort>
+</malus>

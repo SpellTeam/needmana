@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<composant>
+    <element>
+        <name>Feu</name>
+        <sprite>texture/sorts/bouledefeu.jpg</sprite>
+        <id>1</id>
+    </element>
+    <element>
+        <name>Eau</name>
+        <sprite>texture/sorts/geyser.jpg</sprite>
+        <id>8</id>
+    </element>
+    <element>
+        <name>Terre</name>
+        <sprite>texture/sorts/boue.jpg</sprite>
+        <id>64</id>
+    </element>
+    <element>
+        <name>Foudre</name>
+        <sprite>texture/sorts/court-circuit.jpg</sprite>
+        <id>512</id>
+    </element>
+    <element>
+        <name>Ombre</name>
+        <sprite>texture/buffs/adrenaline.jpg</sprite>
+        <id>4096</id>
+    </element>
+    <element>
+        <name>Sacre</name>
+        <sprite>texture/sorts/soin.jpg</sprite>
+        <id>32768</id>
+    </element>
+    <element>
+        <name>Poison</name>
+        <sprite>texture/sorts/brumetoxique.jpg</sprite>
+        <id>262144</id>
+    </element>
+    <element>
+        <name>Plante</name>
+        <sprite>texture/sorts/liane.jpg</sprite>
+        <id>2097152</id>
+    </element>
+</composant>
